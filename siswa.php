@@ -12,7 +12,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f4f4f4; /* Matches the background color of the previous page */
+            background-color: #f4f4f4;
             font-family: Arial, sans-serif;
         }
         .content {
